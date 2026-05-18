@@ -3,7 +3,9 @@
 A natural-language data-query agent built on **Google Cloud Agent Builder (ADK)**,
 **Gemini 2.5**, and the **MongoDB MCP server**.
 
-Open source under Apache 2.0.
+**Live demo:** https://gemini-data-agent-1029931682737.us-central1.run.app
+**Demo video:** https://youtu.be/KABTyMnegfI (1:45)
+**License:** Apache 2.0
 
 ## What it does
 
